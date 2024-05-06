@@ -3,3 +3,5 @@ public static void main(String[] args) {
 	double d = 0;
     int i = 0;
 }
+
+public void test(){}
